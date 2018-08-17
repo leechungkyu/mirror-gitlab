@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 화장실 빈땅 체크
+title: 화장실 빈 칸 체크
 tags:
   - jandi
 ---
