@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+2018.08.16 끄적끄적...
 
-### More Information
+### 관심사
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+쌔거, 이종격투기, 나이키, 뉴스공장
