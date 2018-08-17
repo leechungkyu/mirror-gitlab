@@ -45,7 +45,7 @@ footer-links:
   github: # AWEEKJ/kiko-now
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/%EC%B2%AD%EA%B7%9C-%EC%9D%B4-b12071a8/
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -54,7 +54,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2018 이청규
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
