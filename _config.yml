@@ -29,8 +29,8 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  # - name: Theme
+  #  url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
 paginate: 5
@@ -45,7 +45,7 @@ footer-links:
   github: # AWEEKJ/kiko-now
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin: 청규-이-b12071a8
+  linkedin: # 청규-이-b12071a8
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
