@@ -5,7 +5,6 @@ tags:
   - jandi
 ---
 
-움짤 업로드 테스트~
-
+한줄 요약 :  '/r' 입력 시, 12F 화장실 빈칸 체크 ~~
 ![restroom]({{ site.baseurl }}/images/restroom.gif)
 
