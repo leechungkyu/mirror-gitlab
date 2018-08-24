@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+### 한줄 로그
+---
+- 2018.08.24 살빼자 돼지야!
 
-2018.08.17 끄적끄적...
-
-### 관심사
-
+![profile_photo]({{ site.baseurl }}/images/profile_2016.jpeg) {.aligncenter}
