@@ -47,7 +47,7 @@ footer-links:
   instagram:
   linkedin: # 청규-이-b12071a8
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: https://leechungkyu.github.io/feed.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: # jekyllrb
