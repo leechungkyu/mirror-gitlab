@@ -9,11 +9,9 @@ permalink: /about/
 모든 구성원이 협업과 커뮤니케이션을 잘 할 수 있도록 시스템을 만들고, 프로세스를 정비, 점검, 수리, 공유하는 업무를 맡고 있습니다.  
 2018년부터는 배포 자동화와 서비스 모니터링을 하는 업무도 겸하고 있습니다.
 
-여유로운 시간에는, 
-
-* | ![youtube]({{ site.baseurl }}/images/youtube.png#left) | [[뚱징어IT공장 바로가기]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해보려 합니다. |  
-* ![youtube]({{ site.baseurl }}/images/youtube.png#left){: style="float:left"} [[뚱징어IT공장 바로가기]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해보려 합니다.  
-* ![soju]({{ site.baseurl }}/images/soju.png)~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다.  
+여유로운 시간에는,  
+![youtube]({{ site.baseurl }}/images/youtube.png#left){: style="float:left"} [[뚱징어IT공장 바로가기]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해보려 합니다.  
+![soju]({{ site.baseurl }}/images/soju.png){: style="float:left"} ~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다.  
 
 원스토어 합류 전에는, [삼성테크윈](https://www.hanwha-security.com/ko/)에서 Software Engineering 업무를 하였습니다.  
 [숭실대학교 컴퓨터학부](http://cse.ssu.ac.kr/)를 졸업하였습니다.  
