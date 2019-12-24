@@ -11,8 +11,8 @@ permalink: /about/
 
 여유로운 시간에는,
 
-* [youtube]({{ site.baseurl }}/images/youtube.png) [[뚱징어IT공장 바로가기]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해보려 합니다.
-* [soju]({{ site.baseurl }}/images/soju.png) ~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다.
+* ![youtube]({{ site.baseurl }}/images/youtube.png) [[뚱징어IT공장 바로가기]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해보려 합니다.
+* ![soju]({{ site.baseurl }}/images/soju.png) ~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다.
 
 
 원스토어 합류 전에는, [삼성테크윈](https://www.hanwha-security.com/ko/)에서 Software Engineering 업무를 하였습니다.  
