@@ -12,7 +12,7 @@ permalink: /about/
 여유로운 시간에는,  
 
 * [[뚱징어IT공장]](https://www.youtube.com/channel/UC_MinTXO3V4mhbjV3nd32PA) 2020년 다시 도전해 보려고요. ![youtube]({{ site.baseurl }}/images/youtube.png)
-* <img src="images/soju.png" width="25"> ~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다.  
+* ~~맛집탐방~~ 늘 맛있는 안주를 찾아 헤메이고 있습니다. ![soju]({{ site.baseurl }}/images/soju.png)
 
 원스토어 합류 전에는, [삼성테크윈](https://www.hanwha-security.com/ko/)에서 Software Engineering 업무를 하였습니다.  
 [숭실대학교 컴퓨터학부](http://cse.ssu.ac.kr/)를 졸업하였습니다.
