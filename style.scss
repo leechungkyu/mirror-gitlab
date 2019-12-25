@@ -258,18 +258,24 @@ a.footnote {
 img {
   display: block;
   max-width: 100%;
-  // margin: 0 0 1em;
+  margin: 0 0 1em;
   // add 이모지 추가 자동개행 방지
-  margin: auto;
+  // margin: auto;
+  ////////////////////////////////////////////
   border-radius: 5px;  
 }
 
 // add 이모지 추가시 자동개행 방지
+// https://github.com/jekyll/jemoji/issues/24 참고했습니다.
 img.emoji {
-    display: inline;
-    // height: 1em;
-    // width: 1em;
-    // margin-bottom: 0.25em;
+    display: inline-block;
+    left: 0;
+    transform: none;
+    width: 20px;
+    height: 20px;
+    vertical-align: text-top;
+    padding: 0;
+    margin: 0;
 }
 
 // Fixes images in popup boxes from Google Translate
