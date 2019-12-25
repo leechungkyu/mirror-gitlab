@@ -259,16 +259,17 @@ img {
   display: block;
   max-width: 100%;
   // margin: 0 0 1em;
+  // add 이모지 추가 자동개행 방지
   margin: auto;
-  border-radius: 5px;
+  border-radius: 5px;  
 }
 
 // add 이모지 추가시 자동개행 방지
 img.emoji {
     display: inline;
-    height: 1em;
-    width: 1em;
-    margin-bottom: 0.25em;
+    // height: 1em;
+    // width: 1em;
+    // margin-bottom: 0.25em;
 }
 
 // Fixes images in popup boxes from Google Translate
