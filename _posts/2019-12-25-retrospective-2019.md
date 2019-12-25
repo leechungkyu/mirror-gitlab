@@ -8,6 +8,8 @@ comment: true
 share: true
 ---
 
+2019년 음. 아쉽다.
+
 ---
 ## 2019년
 ---
