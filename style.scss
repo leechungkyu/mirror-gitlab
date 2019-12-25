@@ -256,11 +256,12 @@ a.footnote {
 
 // Image
 img {
-  // display: block;
+  display: block;
   // add 이미지 추가시 자동개행 방지
-  display: inline-block;
+  // display: inline-block;
+  ///////////////////////
   max-width: 100%;
-  margin: 0 0 1em;
+  margin: 0 0 1.5em;
   // add 이모지 추가 자동개행 방지
   // margin: auto;
   ////////////////////////////////////////////
@@ -273,11 +274,12 @@ img.emoji {
     display: inline-block;
     left: 0;
     transform: none;
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     vertical-align: text-top;
     padding: 0;
-    margin: 0;
+    // margin: 0;
+    margin: 0 0 1.5em;
 }
 
 // Fixes images in popup boxes from Google Translate
