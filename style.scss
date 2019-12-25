@@ -262,6 +262,14 @@ img {
   border-radius: 5px;
 }
 
+// add 이모지 추가시 자동개행 방지
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
