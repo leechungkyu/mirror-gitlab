@@ -7,6 +7,7 @@ tags: [retrospective, 회고]
 comment: true
 share: true
 ---
+
 ---
 ## 2019년
 ---
