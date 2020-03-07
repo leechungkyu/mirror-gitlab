@@ -18,14 +18,3 @@ permalink: /about/
 [숭실대학교 컴퓨터학부](http://cse.ssu.ac.kr/)를 졸업하였습니다.
 
 자세한 이력은 [about](https://www.notion.so/leechungkyu/about-1f4404b241e94bd8bb3057b5729fa08b)에서 확인 가능합니다.
-
-### 한줄 로그
----
-- 2019.12.24 메리크리스마스!
-- 2019.07.30 Keep Calm and Carry On
-- 2018.08.24 살빼자 돼지야!!!
-
-### 관심사
----
-- 효
-- 노후준비
