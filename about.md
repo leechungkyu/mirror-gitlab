@@ -13,6 +13,4 @@ permalink: /about/
 또한 배포 자동화와 서비스 모니터링을 하는 업무도 겸하였습니다.  
 
 [삼성테크윈](https://www.hanwha-security.com/ko/)에서 Software Engineering 업무로 사회의 시작을 하였습니다.  
-[숭실대학교 컴퓨터학부](http://cse.ssu.ac.kr/)를 졸업하였습니다.  
-
-자세한 이력은 [about](https://www.notion.so/openwiki/f678ff34437c485e8c040c37ff34facd)에서 확인 가능합니다.
+[숭실대학교 컴퓨터학부](http://cse.ssu.ac.kr/)를 졸업하였습니다.
